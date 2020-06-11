@@ -45,7 +45,9 @@
     $ sudo python2 fbtool.py
     or
     $ python2 fbtool.py
+    or
+    $ sudo python2 fbtool-v2.py
 
 ## TOOL SCREENSHOT
-
+![FIRST RUN OF MY TOOL](https://github.com/mkdirlove/FBTOOL/blob/master/Screenshot%20at%202020-06-11%2019-52-44.png)
 ![FIRST RUN OF MY TOOL](https://github.com/mkdirlove/FBTOOL/blob/master/Screenshot_2020-04-27_17-37-57.png)
