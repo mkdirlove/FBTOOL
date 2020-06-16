@@ -50,4 +50,3 @@
 
 ## TOOL SCREENSHOT
 ![FIRST RUN OF MY TOOL](https://github.com/mkdirlove/FBTOOL/blob/master/Screenshot%20at%202020-06-11%2019-52-44.png)
-![FIRST RUN OF MY TOOL](https://github.com/mkdirlove/FBTOOL/blob/master/Screenshot_2020-04-27_17-37-57.png)
