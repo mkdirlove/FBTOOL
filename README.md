@@ -38,15 +38,16 @@
 ## INSTALLATION
 
     $ git clone https://github.com/mkdirlove/FBTOOL
+    
     $ cd FBTOOL
 
 ## USAGE
 
     $ sudo python2 fbtool.py
+    
     or
+    
     $ python2 fbtool.py
-    or
-    $ sudo python2 fbtool-v2.py
 
 ## TOOL SCREENSHOT
 ![FIRST RUN OF MY TOOL](https://github.com/mkdirlove/FBTOOL/blob/master/Screenshot_2020-04-27_17-37-57.png)
