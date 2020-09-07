@@ -3,7 +3,8 @@
 ## GREETINGS TO ALL MEMBERS OF ANONYSPHINX PHILIPPINES 
 
 ## A FACEBOOK HACKING TOOLKIT WRITTEN IN PYTHON
-
+![FIRST RUN OF MY TOOL](https://github.com/mkdirlove/FBTOOL/blob/master/Screenshot_2020-04-27_17-37-57.png)
+#
 ## FEATURES:
 - [x] NORMAL LOGIN
 - [x] ACCESS TOKEN LOGIN
@@ -48,6 +49,4 @@
     or
     
     $ python2 fbtool.py
-
-## TOOL SCREENSHOT
-![FIRST RUN OF MY TOOL](https://github.com/mkdirlove/FBTOOL/blob/master/Screenshot_2020-04-27_17-37-57.png)
+#
