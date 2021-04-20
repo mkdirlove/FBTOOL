@@ -1,11 +1,11 @@
 ## ALL IN ONE FACEBOOK HACKING TOOLKIT FOR NOOBZ
 ![FIRST RUN OF MY TOOL](https://github.com/mkdirlove/FBTOOL/blob/master/Screenshot_2020-04-27_17-37-57.png)
 #
-## LOGIN METHOD:
+## LOGIN METHODS
 - [x] NORMAL LOGIN
 - [x] ACCESS TOKEN LOGIN
 
-## AVAILABLE FEATURES:
+## AVAILABLE FEATURES
 - [x] Facebook friend info fetcher
 - [x] Get ID from friend
 - [x] Get ID friend from friend
@@ -18,7 +18,7 @@
 - [x] Multi Bruteforce Facebook
 - [x] Super Multi Bruteforce Facebook
 - [x] BruteForce(Target)
-- [x] Yahoo Checker
+- [x] Yahoo Checker(Deprecated)
 - [x] Bot Reactions Target Post
 - [x] Bot Reactions group Post
 - [x] BOT COMMENT Target Post
