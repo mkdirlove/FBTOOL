@@ -7,11 +7,11 @@
 ## A FACEBOOK HACKING TOOLKIT FOR NOOBZ
 ![FIRST RUN OF MY TOOL](https://github.com/mkdirlove/FBTOOL/blob/master/Screenshot_2020-04-27_17-37-57.png)
 #
-## FEATURES:
+## LOGIN METHOD:
 - [x] NORMAL LOGIN
 - [x] ACCESS TOKEN LOGIN
 
-## IFORMATIONS:
+## AVAILABLE FEATURES:
 - [x] Facebook friend info fetcher
 - [x] Get ID from friend
 - [x] Get ID friend from friend
@@ -38,17 +38,15 @@
 - [x] See my group list
 - [x] Profile Guard
 
-## INSTALLATION
+## INSTALLATION & USAGE
 
     $ git clone https://github.com/mkdirlove/FBTOOL
     
     $ cd FBTOOL
 
-## USAGE
-
-    $ sudo python2 fbtool.py
+    $ python2 fbtool.py
     
     or
     
-    $ python2 fbtool.py
+    $ sudo python2 fbtool.py
 #
